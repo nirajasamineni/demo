@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>niraja</title>
+</head>
+<body>
+
+<h1>This is my first page</h1>
+<p>welcome to the <strong>courses</strong> in this we will learn html,css and javascript and build a webpage</p>
+ 
+   
+   </body>
+    </head>  
+</html>	
+       
+   
